@@ -1,0 +1,1 @@
+import{$a as a,Z as o,mb as s}from"./chunk-RUZ6G25R.js";var p=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-payments"]],standalone:!0,features:[s],decls:1,vars:0,consts:[[1,"w-screen","h-screen","bg-yellow-700"]],template:function(n,r){n&1&&a(0,"div",0)}});let t=e;return t})();export{p as default};
